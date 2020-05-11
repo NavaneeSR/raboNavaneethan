@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "employeename": "Leanne Graham",
+    "firstName": "Bret",
+    "lastName": "Bret",
+    "email": "Testing@gmail.com",
+    "password": "test",
+    "phone": "1-770-736-8031",
+    "employeestatus": 0
+  }
+]

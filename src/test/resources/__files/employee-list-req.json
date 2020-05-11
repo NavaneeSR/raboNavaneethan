@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "employeename": "Leanne Graham",
+    "firstName": "Bret",
+    "lastName": "Bret",
+    "email": "Testing@gmail.com",
+    "password": "test",
+    "phone": "1-770-736-8031",
+    "employeestatus": 0
+  },
+  {
+    "id": 2,
+    "employeename": "Leanne Graham1",
+    "firstName": "Bret1",
+    "lastName": "Bret1",
+    "email": "Testing1@gmail.com",
+    "password": "test1",
+    "phone": "1-770-736-8031",
+    "employeestatus": 0
+  },
+  {
+    "id": 3,
+    "employeename": "Leanne Graham2",
+    "firstName": "Bret2",
+    "lastName": "Bret2",
+    "email": "Testing2@gmail.com",
+    "password": "test2",
+    "phone": "1-770-736-8031",
+    "employeestatus": 0
+  }
+]
